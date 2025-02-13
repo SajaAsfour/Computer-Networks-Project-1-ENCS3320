@@ -38,31 +38,6 @@ This repository contains my implementation of **Project #1 for the Computer Netw
 - 📂 **Codes:** Implementation of all codes.
 - 📄 **Project Report (report.pdf):** Documentation of all tasks, analysis, and results.
 
-## 🚀 How to Run
-
-### **Run the TCP Server-Client Application**
-
-1. Start the server:
-   ```bash
-   python server.py
-   ```
-2. Run the client to send a valid student ID:
-   ```bash
-   python client.py
-   ```
-
-### **Run the Web Server**
-
-1. Start the server:
-   ```bash
-   python webserver.py
-   ```
-2. Open a browser and navigate to:
-   - `http://localhost:9966/` (Homepage)
-   - `http://localhost:9966/ar` (Arabic version)
-   - `http://localhost:9966/style.css` (CSS file test)
-   - `http://localhost:9966/image.png` (Image file test)
-
 ## 📌 Requirements
 
 - Python (For Web & TCP Applications)
